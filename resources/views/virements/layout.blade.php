@@ -181,7 +181,7 @@
     <div class="container">
         <a class="navbar-brand" href="{{ route('dashboard') }}">
             <i class="bi bi-bank2"></i>
-            Gestion Bancaire
+            bankati
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
